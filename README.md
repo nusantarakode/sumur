@@ -8,7 +8,7 @@ sumur sumber belajar, sumber kehidupan
 ---
 ---
 # Panduan Menulis
-Bisa langsung menulis dengan mardown di dalam direktori `belajar`
+Bisa langsung menulis dengan markdown di dalam direktori `belajar`
 
 ### Jika ingin menjalankan web di lokal
 Repo ini menggunakan [vuepress](https://vuepress.vuejs.org/) agar bisa dijadikan versi web yang bisa diakses [di sini](https://sumur.netlify.com/)
