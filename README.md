@@ -1,5 +1,5 @@
 # Sumur
-sumur sumber belajar, sumber kehidupan
+Sumur sumber belajar, sumber kehidupan. Semoga bermanfaat
 
 [versi web](https://sumur.netlify.com/)
 
